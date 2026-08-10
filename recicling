@@ -1,0 +1,23 @@
+import random
+def clean():
+    limpar= random.randint(0, 11)
+    if limpar== 0:
+        return"use o plástico pra criar um vaso pra plantas"
+    elif:
+        return"use o alumínio pra criar um espelho ou um robô de papel"
+    elif:
+        return"use as frutas e restos de comida pra compostagem"
+    elif:
+        return"use os aparelhos antigos pra criar novos"
+    elif:
+        return"tente usar o metal pra criar algo que você precise"
+    elif:
+        return"use os restos de comida cozida pra dar aos animais"
+    elif:
+        return"vidro pode ser criado de novo, use o calor pra criar"
+    elif:
+        return"use os papeis velhos pra usar como tapete pra tinta"
+    elif:
+        return"tente usar as baterias velhas pra carregar elas"
+    else:
+        return"use as roupas antigas pra doar e não jogar fora"
